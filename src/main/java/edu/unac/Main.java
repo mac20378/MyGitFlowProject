@@ -5,7 +5,7 @@ package edu.unac;
 public class Main {
     public static void main(String[] args) {
 
-        //my first comment
+        //change of words
 
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
